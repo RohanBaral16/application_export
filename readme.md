@@ -1,0 +1,1 @@
+Download the file and run the run_app.bat script, it will install python if not installed previously, and run the application server.
