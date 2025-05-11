@@ -1,0 +1,303 @@
+[
+    {
+      "questionIndex": 0,
+      "question": "Sample Question",
+      "answer0": "First option",
+      "answer1": "Second option",
+      "answer2": "Third option",
+      "answer3": "Fourth option",
+      "answer4": "Firth option",
+      "correctAnswer": 0
+    },
+    {
+      "questionIndex": 1,
+      "question": "Which river is most commonly used for sand and aggregate in Kathmandu Valley?",
+      "answer0": "Bagmati",
+      "answer1": "Bishnumati",
+      "answer2": "Trishuli",
+      "answer3": "Indrawati",
+      "answer4": "Karnali",
+      "correctAnswer": 2
+    },
+    {
+      "questionIndex": 2,
+      "question": "Which seismic zone does Nepal fall into?",
+      "answer0": "Zone II",
+      "answer1": "Zone III",
+      "answer2": "Zone IV",
+      "answer3": "Zone V",
+      "answer4": "Zone VI",
+      "correctAnswer": 3
+    },
+    {
+      "questionIndex": 3,
+      "question": "Which code is used in Nepal for earthquake-resistant design of buildings?",
+      "answer0": "NBC 105",
+      "answer1": "NBC 205",
+      "answer2": "NBC 305",
+      "answer3": "NBC 101",
+      "answer4": "NBC 110",
+      "correctAnswer": 0
+    },
+    {
+      "questionIndex": 4,
+      "question": "What is the full form of NBC used in Nepal?",
+      "answer0": "Nepal Building Code",
+      "answer1": "Nepal Bridge Code",
+      "answer2": "Nepali Bureau of Construction",
+      "answer3": "Nepal Base Code",
+      "answer4": "National Building Council",
+      "correctAnswer": 0
+    },
+    {
+      "questionIndex": 5,
+      "question": "Which dam is the highest in Nepal?",
+      "answer0": "Kulekhani I Dam",
+      "answer1": "Upper Tamakoshi Dam",
+      "answer2": "Trishuli Dam",
+      "answer3": "Middle Marsyangdi Dam",
+      "answer4": "Koshi Barrage",
+      "correctAnswer": 0
+    },
+    {
+      "questionIndex": 6,
+      "question": "Which test is used to determine the compressive strength of concrete?",
+      "answer0": "Slump Test",
+      "answer1": "Impact Test",
+      "answer2": "Compressive Test",
+      "answer3": "Flexural Test",
+      "answer4": "Workability Test",
+      "correctAnswer": 2
+    },
+    {
+      "questionIndex": 7,
+      "question": "Which bridge type is most commonly used in rural Nepal for pedestrian crossing?",
+      "answer0": "Suspension Bridge",
+      "answer1": "Truss Bridge",
+      "answer2": "Arch Bridge",
+      "answer3": "Cantilever Bridge",
+      "answer4": "Box Girder Bridge",
+      "correctAnswer": 0
+    },
+    {
+      "questionIndex": 8,
+      "question": "The unit of measurement for the slump test in concrete is:",
+      "answer0": "kg/m³",
+      "answer1": "cm",
+      "answer2": "mm",
+      "answer3": "Newton",
+      "answer4": "cubic inch",
+      "correctAnswer": 1
+    },
+    {
+      "questionIndex": 9,
+      "question": "The bearing capacity of soil is determined by which field test?",
+      "answer0": "Plate Load Test",
+      "answer1": "Core Cutter Test",
+      "answer2": "CBR Test",
+      "answer3": "Slump Test",
+      "answer4": "Triaxial Test",
+      "correctAnswer": 0
+    },
+    {
+      "questionIndex": 10,
+      "question": "Which cement is commonly used in hydraulic structures in Nepal?",
+      "answer0": "OPC",
+      "answer1": "PPC",
+      "answer2": "PSC",
+      "answer3": "SRC",
+      "answer4": "RHC",
+      "correctAnswer": 3
+    },
+    {
+      "questionIndex": 11,
+      "question": "The design strength of M20 concrete is:",
+      "answer0": "10 MPa",
+      "answer1": "15 MPa",
+      "answer2": "20 MPa",
+      "answer3": "25 MPa",
+      "answer4": "30 MPa",
+      "correctAnswer": 2
+    },
+    {
+      "questionIndex": 12,
+      "question": "The span of Dharahara (before earthquake) was:",
+      "answer0": "32 m",
+      "answer1": "40 m",
+      "answer2": "61.88 m",
+      "answer3": "45.5 m",
+      "answer4": "56.78 m",
+      "correctAnswer": 2
+    },
+    {
+      "questionIndex": 13,
+      "question": "What is the standard dimension of a brick in Nepal?",
+      "answer0": "230×110×70 mm",
+      "answer1": "240×115×75 mm",
+      "answer2": "190×90×90 mm",
+      "answer3": "210×100×70 mm",
+      "answer4": "200×100×80 mm",
+      "correctAnswer": 1
+    },
+    {
+      "questionIndex": 14,
+      "question": "Which is the largest hydropower project in Nepal?",
+      "answer0": "Kulekhani I",
+      "answer1": "Upper Tamakoshi",
+      "answer2": "Middle Marsyangdi",
+      "answer3": "Chilime",
+      "answer4": "Modikhola",
+      "correctAnswer": 1
+    },
+    {
+      "questionIndex": 15,
+      "question": "Which software is most widely used for structural design in Nepal?",
+      "answer0": "AutoCAD",
+      "answer1": "STAAD Pro",
+      "answer2": "SAP2000",
+      "answer3": "ETABS",
+      "answer4": "SketchUp",
+      "correctAnswer": 3
+    },
+    {
+      "questionIndex": 16,
+      "question": "What is the standard curing time for concrete?",
+      "answer0": "3 days",
+      "answer1": "7 days",
+      "answer2": "14 days",
+      "answer3": "21 days",
+      "answer4": "28 days",
+      "correctAnswer": 4
+    },
+    {
+      "questionIndex": 17,
+      "question": "In surveying, which method is most used in hilly terrain?",
+      "answer0": "Chain surveying",
+      "answer1": "Compass surveying",
+      "answer2": "Plane table surveying",
+      "answer3": "Tacheometric surveying",
+      "answer4": "GPS surveying",
+      "correctAnswer": 3
+    },
+    {
+      "questionIndex": 18,
+      "question": "What is the role of DPC in buildings?",
+      "answer0": "Prevent leakage",
+      "answer1": "Prevent cracks",
+      "answer2": "Prevent dampness",
+      "answer3": "Improve aesthetics",
+      "answer4": "Support load",
+      "correctAnswer": 2
+    },
+    {
+      "questionIndex": 19,
+      "question": "Which code in Nepal deals with the design of reinforced concrete buildings?",
+      "answer0": "NBC 204",
+      "answer1": "NBC 205",
+      "answer2": "NBC 206",
+      "answer3": "NBC 207",
+      "answer4": "NBC 208",
+      "correctAnswer": 1
+    },
+    {
+      "questionIndex": 20,
+      "question": "Which aggregate size is commonly used for RCC works?",
+      "answer0": "6 mm",
+      "answer1": "10 mm",
+      "answer2": "20 mm",
+      "answer3": "40 mm",
+      "answer4": "80 mm",
+      "correctAnswer": 2
+    },
+    {
+      "questionIndex": 21,
+      "question": "Which type of foundation is used for soft soil?",
+      "answer0": "Shallow foundation",
+      "answer1": "Pile foundation",
+      "answer2": "Mat foundation",
+      "answer3": "Raft foundation",
+      "answer4": "Strip foundation",
+      "correctAnswer": 1
+    },
+    {
+      "questionIndex": 22,
+      "question": "Which equipment is used in compaction of subgrade soil?",
+      "answer0": "Bulldozer",
+      "answer1": "Backhoe",
+      "answer2": "Roller",
+      "answer3": "Excavator",
+      "answer4": "Grader",
+      "correctAnswer": 2
+    },
+    {
+      "questionIndex": 23,
+      "question": "What does ISI stand for in building materials?",
+      "answer0": "Indian Standards Institute",
+      "answer1": "Institute of Soil and Infrastructure",
+      "answer2": "Indian Structural Institute",
+      "answer3": "Institute of Structural Integrity",
+      "answer4": "Indian Steel Institute",
+      "correctAnswer": 0
+    },
+    {
+      "questionIndex": 24,
+      "question": "Which sand is considered good for construction?",
+      "answer0": "Fine black sand",
+      "answer1": "Coarse white sand",
+      "answer2": "River sand",
+      "answer3": "Sea sand",
+      "answer4": "Desert sand",
+      "correctAnswer": 2
+    },
+    {
+      "questionIndex": 25,
+      "question": "Which test determines workability of concrete?",
+      "answer0": "Compaction Factor Test",
+      "answer1": "Slump Test",
+      "answer2": "Vee Bee Test",
+      "answer3": "Flow Table Test",
+      "answer4": "Bleeding Test",
+      "correctAnswer": 1
+    },
+    {
+      "questionIndex": 26,
+      "question": "Which steel bar grade is mostly used in Nepal?",
+      "answer0": "Fe250",
+      "answer1": "Fe415",
+      "answer2": "Fe500",
+      "answer3": "Fe550",
+      "answer4": "Fe600",
+      "correctAnswer": 2
+    },
+    {
+      "questionIndex": 27,
+      "question": "Which of the following is a non-destructive test?",
+      "answer0": "Slump Test",
+      "answer1": "Rebound Hammer Test",
+      "answer2": "Compression Test",
+      "answer3": "Flexural Test",
+      "answer4": "Core Test",
+      "correctAnswer": 1
+    },
+    {
+      "questionIndex": 28,
+      "question": "Which is the major cause of landslides in Nepal?",
+      "answer0": "Earthquake",
+      "answer1": "Heavy Rainfall",
+      "answer2": "Deforestation",
+      "answer3": "Overloading",
+      "answer4": "Road Cutting",
+      "correctAnswer": 1
+    },
+    {
+      "questionIndex": 29,
+      "question": "Which factor is most critical in road alignment in hill areas?",
+      "answer0": "Length of road",
+      "answer1": "Cost",
+      "answer2": "Gradient",
+      "answer3": "Curvature",
+      "answer4": "Type of pavement",
+      "correctAnswer": 2
+    }
+  ]
+  
